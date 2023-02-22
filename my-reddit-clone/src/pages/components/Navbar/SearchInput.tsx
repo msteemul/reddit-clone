@@ -1,5 +1,5 @@
 import { Flex, InputGroup, InputLeftElement, Input, InputRightElement   } from '@chakra-ui/react';
-import { PhoneIcon, SearchIcon } from '@chakra-ui/icons';
+import { SearchIcon } from '@chakra-ui/icons';
 import React from 'react';
 
 type SearchInputProps = {
